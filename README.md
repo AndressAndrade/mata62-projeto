@@ -1,4 +1,4 @@
-# mata62-projeto (ALTERE PARA O NOME DO SEU PROJETO)
+# Color FIT
 
 ## Configuração inicial do projeto
 
